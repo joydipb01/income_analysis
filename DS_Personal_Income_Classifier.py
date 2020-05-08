@@ -115,7 +115,7 @@ sb.boxplot(x=data2[" SalStat"], y=data2[" hoursperweek"])
 '''
 Those who earn more than 50K spend about 40 to 50 hours per week.
 This variable can contribute to classifying the individual's salary status,
-since there i a clear association between salary status and hours at work per
+since there is a clear association between salary status and hours at work per
 week.
 '''
 
